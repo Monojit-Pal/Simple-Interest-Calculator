@@ -21,3 +21,6 @@ This is a web-based Simple Interest Calculator created using HTML, CSS, and Java
 - HTML: Provides the structure of the web page and form inputs.
 - CSS: Adds styling to the form and the layout for a more appealing and responsive design.
 - JavaScript: Handles the calculation logic and dynamically updates the output based on user input.
+
+# Live Demo
+You can view the live demo of the Simple Interest Calculator here: https://monojit-pal.github.io/Simple-Interest-Calculator/

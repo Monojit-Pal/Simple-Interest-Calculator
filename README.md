@@ -24,3 +24,5 @@ This is a web-based Simple Interest Calculator created using HTML, CSS, and Java
 
 # Live Demo
 You can view the live demo of the Simple Interest Calculator here: https://monojit-pal.github.io/Simple-Interest-Calculator/
+
+Author - Monojit Pal
